@@ -26,6 +26,12 @@ Exemplos de Open SQL moderno no S/4HANA:
 - Open SQL com `CASE/WHEN`, `GROUP BY` e funções de agregação
 - Cálculos matemáticos com `CAST` diretamente no SELECT
 
+- ### 📁 OO
+
+Exemplos de orientação a objetos em ABAP:
+
+- Calculadora com encapsulamento, separação de responsabilidades e validação via domínio SAP (`DD07V`)
+
 ## Tecnologias
 - SAP ABAP S/4HANA
 - Core Data Services (CDS)
